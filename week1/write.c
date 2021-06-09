@@ -10,7 +10,7 @@ int main()
       
     // Get the data to be written in file
     char dataToBeWritten[50] 
-        = "This is content for OSS lab 1 submitted by Keshav";
+        = "This is content for OSS lab 1 submitted by Mudit";
   
     // Open the file using fopen()
     // in write mode using "w" attribute
